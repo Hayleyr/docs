@@ -274,7 +274,9 @@ You will be able to insert CartoDB maps in WordPress, Joomla, Drupal, etc. if yo
 
 ### How to print maps in CartoDB?
 
-In the map view of your visualization, the option "Export image" will allow you to get a .png image from your map. Don't forget to add proper attributions if you publish your map as an image! You can find more information about our Static Maps in [this blogpost](http://blog.cartodb.com/static-maps/).
+<p class="wrap-border"><img src="{{ '/img/layout/faqs/attribution.png' | prepend: site.baseurl }}" alt="CartoDB Attribution" /></p>
+
+In the map view of your visualization, the option "Export image" will allow you to get a .png image from your map. Don't forget to add the proper attributions if you publish your map as an image!  If you are using data or a basemap that is not provided by us, it is your responsibility to provide the respective attributions as well. Learn more about creating static images from maps in [this blogpost](http://blog.cartodb.com/static-maps/).
 
 ### How can I set the position of an embedded visualization?
 
