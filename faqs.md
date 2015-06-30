@@ -330,7 +330,7 @@ If you are a journalist and you have special needs about CartoDB, let us know at
 
 ### What does the "Removable brand" feature mean?
 
-<p class="wrap-border"><img src="{{ '/img/layout/faqs/share-logo.png' | prepend: site.baseurl }}" alt="What does the Removable brand" /></p>
+<p class="wrap-border"><img src="{{ '/img/layout/faqs/removablebrand.png' | prepend: site.baseurl }}" alt="What does the Removable brand" /></p>
 
 From the Coronelli plan you will be able to remove CartoDB logo and the "Create your own custom maps with CartoDB" text will not appear below your embedded visualizations if you don't want to. For removing the logo, just deselect the option "Logo" in the sharing wizard. Take into account that this option will be only available if your current plan includes the "Removable brand" feature.
 
